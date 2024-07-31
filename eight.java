@@ -19,16 +19,6 @@ public static void main(String[] args) {
 //concatenate
     String name4 = name + " and " + name3;
     System.out.println(name4);
-
-
-
-
-
-
-
-
     
-
-
 }    
 }
